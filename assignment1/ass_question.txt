@@ -1,0 +1,2 @@
+1 bool res = false;
+为什么 fuction 用到 res 的时候 要加 &res
